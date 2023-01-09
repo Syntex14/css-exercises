@@ -1,0 +1,16 @@
+.monochromatic, .black-and-yellow {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+
+
+}
+
+.monochromatic {
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+.black-and-yellow {
+    background-color: yellow;
+}

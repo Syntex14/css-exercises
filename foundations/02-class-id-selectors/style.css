@@ -1,0 +1,20 @@
+.pinky {
+    background-color: rgb(250, 99, 175);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.pinky.big { 
+    font-size: 24px;
+}
+
+#snowflake {
+    color: rgb(0, 140, 255);
+    font-size: 36px;
+}
+
+#shrek {
+    background-color: rgb(133, 255, 62);
+    font-weight: bold;  
+    font-size: 24px;
+}
